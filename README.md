@@ -1,16 +1,16 @@
 Deep Learning Specialization on Coursera
 ========================================
 
-####Master Deep Learning, and Break into AI
+#### Master Deep Learning, and Break into AI
 
-######Instructor: Andrew Ng
+###### Instructor: Andrew Ng
 
-#Introduction
+# Introduction
 This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, Deep Learning Specialization on Coursera.
 
-####Programming Assignments
+#### Programming Assignments
 
-###Neural Networks and Deep Learning
+### Neural Networks and Deep Learning
 
 * Logistic Regression with a Neural Network mindset
 * Planar data classification with one hidden layer
@@ -18,7 +18,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 * Deep Neural Network for Image Classification: Application
 * Python Basics with Numpy
 
-###Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 * Initialization
 * Regularization
@@ -26,7 +26,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 * Optimization Methods
 * TensorFlow Tutorial
 
-###Convolutional Neural Networks
+### Convolutional Neural Networks
 
 * Convolutional Model - step by step
 * Car detection for Autonomous Driving
@@ -35,7 +35,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 * Residual Networks
 * Keras - Tutorial
 
-###Sequence Models
+### Sequence Models
 
 * Building a Recurrent Neural Network - Step by Step
 * Character level language model - Dinosaurus land
